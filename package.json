@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "a simple chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshanadeem291/chatapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshanadeem291/chatapp/issues"
+  },
+  "homepage": "https://github.com/ayeshanadeem291/chatapp#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "socket.io": "^2.3.0"
+  }
+}
