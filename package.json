@@ -18,6 +18,6 @@
   "homepage": "https://github.com/ayeshanadeem291/chatapp#readme",
   "dependencies": {
     "mongodb": "^3.5.5",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
